@@ -1,7 +1,7 @@
 # CatCollectionViewReorder
 
 # Introduction
-CatCollectionViewReorder is wirtten with IOS 9 new methods,it is easy to make your UICollectionView reorderable
+CatCollectionViewReorder is wirtten with iOS 9 new methods,it is easy to make your UICollectionView reorderable
 
 # ScreenRecords
 ![ScreenShots1](https://raw.githubusercontent.com/K-cat/CatCollectionViewReorder/master/ScreenShot.gif)
